@@ -1,4 +1,5 @@
 # E-commerce Sales Dashboard — Power BI Project
+Check it out here: https://app.powerbi.com/groups/me/reports/c0c101e8-1f8f-436d-97ea-e2bcbf9f87d8/ReportSection?experience=power-bi
 
 ## Project Overview
 The **E-commerce Sales Dashboard** is an interactive Power BI report designed to analyze an online store’s sales data. It provides insights into sales trends, product performance, and customer behavior to support **data-driven business decisions**.
